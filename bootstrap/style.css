@@ -1,0 +1,13 @@
+.background{
+    background-color: blueviolet;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 254, 191);
+    border-radius: 30px;
+    justify-content: center;
+    margin: 50px auto;
+    width: 700px;
+    padding: 50px;
+}
